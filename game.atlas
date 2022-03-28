@@ -1,0 +1,83 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Ronin Rider (China)
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ronin Rider (Filipinas)
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ronin Rider (Japan)
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ronin Rider (Korea)
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ronin Rider (Manchuria)
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ronin Rider (Philippines)
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ronin Rider (Siam)
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ronin Rider (Tondo)
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Shaolin Monk
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Sohei
+  rotate: false
+  xy: 420, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Yamabushi
+  rotate: false
+  xy: 628, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
