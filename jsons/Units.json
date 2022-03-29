@@ -113,7 +113,7 @@
 	},
 	{
 		"name": "Shaolin Monk",
-		"unitType": "Sword"
+		"unitType": "Sword",
 		"uniqueTo": "China",
 		"movement": 2,
 		"strength": 20,
@@ -126,7 +126,7 @@
 	},
 	{
 		"name": "Sohei",
-		"unitType": "Sword"
+		"unitType": "Sword",
 		"uniqueTo": "Japan",
 		"movement": 2,
 		"strength": 20,
@@ -139,7 +139,7 @@
 	},
 	{
 		"name": "Yamabushi",
-		"unitType": "Sword"
+		"unitType": "Sword",
 		"uniqueTo": "Japan",
 		"movement": 2,
 		"strength": 20,
