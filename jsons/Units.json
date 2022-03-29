@@ -132,7 +132,7 @@
 		"strength": 20,
 		"cost": 70,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move immediately once bought""No defensive terrain bonus","Unbuildable","Can be purchased for [70] [Faith]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
+		"uniques": ["Can move immediately once bought","No defensive terrain bonus","Unbuildable","Can be purchased for [70] [Faith]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
 		"promotions": ["Great Generals II","Quick Study"],
         "hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -145,7 +145,7 @@
 		"strength": 20,
 		"cost": 70,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move immediately once bought""No defensive terrain bonus","Unbuildable","Can be purchased for [70] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
+		"uniques": ["Can move immediately once bought","No defensive terrain bonus","Unbuildable","Can be purchased for [70] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
 		"promotions": ["Great Generals II","Quick Study"],
         "hurryCostModifier": 20,
 		"attackSound": "metalhit"
