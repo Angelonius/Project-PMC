@@ -1,106 +1,186 @@
 [
-    {
+	{
 		"name": "Ronin Rider (China)",
-        "uniqueTo": "China",
+		"uniqueTo": "China",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable","Can be purchased for [150] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Charge","Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [150] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Charge",
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
 		"name": "Ronin Rider (Filipinas)",
-        "uniqueTo": "Filipinas",
+		"uniqueTo": "Filipinas",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable","Can be purchased for [150] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Charge","Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [150] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Charge",
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
 		"name": "Ronin Rider (Japan)",
-        "uniqueTo": "Japan",
+		"uniqueTo": "Japan",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable","Can be purchased for [150] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Charge","Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [150] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Charge",
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
 		"name": "Ronin Rider (Korea)",
-        "uniqueTo": "Korea",
+		"uniqueTo": "Korea",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable","Can be purchased for [150] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Charge","Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [150] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Charge",
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
 		"name": "Ronin Rider (Manchuria)",
-        "uniqueTo": "Manchuria",
+		"uniqueTo": "Manchuria",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable","Can be purchased for [150] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Charge","Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [150] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Charge",
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
 		"name": "Ronin Rider (Philippines)",
-        "uniqueTo": "Philippines",
+		"uniqueTo": "Philippines",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable","Can be purchased for [150] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Charge","Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [150] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Charge",
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
 		"name": "Ronin Rider (Siam)",
-        "uniqueTo": "Siam",
+		"uniqueTo": "Siam",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable","Can be purchased for [150] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Charge","Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [150] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Charge",
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
 		"name": "Ronin Rider (Tondo)",
-        "uniqueTo": "Tondo",
+		"uniqueTo": "Tondo",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 25,
 		"cost": 150,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Unbuildable","Can be purchased for [150] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Charge","Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [150] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Charge",
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
@@ -111,9 +191,18 @@
 		"strength": 20,
 		"cost": 70,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move immediately once bought","No defensive terrain bonus","Unbuildable","Can be purchased for [70] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move immediately once bought",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [70] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
 	{
@@ -124,9 +213,18 @@
 		"strength": 20,
 		"cost": 70,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move immediately once bought","No defensive terrain bonus","Unbuildable","Can be purchased for [70] [Faith]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move immediately once bought",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [70] [Faith]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
 	{
@@ -137,9 +235,18 @@
 		"strength": 20,
 		"cost": 70,
 		"requiredTech": "Civil Service",
-		"uniques": ["Can move immediately once bought","No defensive terrain bonus","Unbuildable","Can be purchased for [70] [Gold]","Only available <after discovering [Civil Service]> <after adopting [Commerce]>"],
-		"promotions": ["Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+		"uniques": [
+			"Can move immediately once bought",
+			"No defensive terrain bonus",
+			"Unbuildable",
+			"Can be purchased for [70] [Gold]",
+			"Only available <after discovering [Civil Service]> <after adopting [Commerce]>"
+		],
+		"promotions": [
+			"Great Generals II",
+			"Quick Study"
+		],
+		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
-	},
+	}
 ]
