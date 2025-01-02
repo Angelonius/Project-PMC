@@ -188,7 +188,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move immediately once bought",
-			"Can be purchased for [70] [Faith]"
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]"
 		],
 		"promotions": [
 			"Great Generals II",
