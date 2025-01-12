@@ -9,7 +9,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move after attacking",
-			"Can be purchased for [150] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Charge",
@@ -29,7 +29,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move after attacking",
-			"Can be purchased for [150] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Charge",
@@ -49,7 +49,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move after attacking",
-			"Can be purchased for [150] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Charge",
@@ -69,7 +69,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move after attacking",
-			"Can be purchased for [150] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Charge",
@@ -89,7 +89,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move after attacking",
-			"Can be purchased for [150] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Charge",
@@ -109,7 +109,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move after attacking",
-			"Can be purchased for [150] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Charge",
@@ -129,7 +129,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move after attacking",
-			"Can be purchased for [150] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Charge",
@@ -149,7 +149,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move after attacking",
-			"Can be purchased for [150] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Charge",
@@ -169,7 +169,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move immediately once bought",
-			"Can be purchased for [70] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Great Generals II",
@@ -207,7 +207,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Can move immediately once bought",
-			"Can be purchased for [70] [Gold]"
+			"May buy [Mercenary] units with [Gold] for [2] times their normal Production cost"
 		],
 		"promotions": [
 			"Great Generals II",
