@@ -8,3 +8,5 @@ Requirements: Much like with Palengke, you need to have one of these mods for it
 2. Project Felipe: https://github.com/Angelonius/Project-Felipe
 3. Project Tondo: https://github.com/Angelonius/Project-Tondo
 4. Project Manchuria: https://github.com/Angelonius/Project-Manchuria
+
+v.1.1: Added a new global unique and updated the units.
